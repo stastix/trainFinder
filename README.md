@@ -16,6 +16,12 @@ The project was intended to fetch real-time journeys using the **Deutsche Bahn T
 
 ---
 
+## Demo / Deployment
+
+Check out the live deployment here: [TrainFinder Live](https://trainfinder.vercel.app)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
