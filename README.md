@@ -2,7 +2,7 @@
 
 This is a **Next.js** project that allows users to search train connections between Hamburg and Amsterdam.
 
-The project was intended to fetch real-time journeys using the **Deutsche Bahn Trip API**, including direct and connecting trains. Due to limitations with the DB API subscription (free plan was pending), live API access could not be used, so the project currently uses **mock data** to simulate train connections.
+The project was intended to fetch real-time journeys using the **Deutsche Bahn Trip API**, including direct and connecting trains. Due to limitations with the DB API subscription (free plan was pending), live API access could not be used, so the project currently uses **v6.db.transport.rest** to simulate train connections.
 
 ---
 
@@ -12,7 +12,7 @@ The project was intended to fetch real-time journeys using the **Deutsche Bahn T
 - Supports **round trips** and multiple overnight options.
 - Server-side caching for search results.
 - Mock data fallback for testing without live DB API access.
-- Simple and clean UI powered by Next.js, Tailwind and Shadn.
+- Simple and clean UI powered by Next.js, Tailwind and Shadcn.
 
 ---
 
